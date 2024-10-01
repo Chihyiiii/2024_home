@@ -1,6 +1,6 @@
 ```graphviz
 digraph {
-node[shape=record];
+	node[shape=record];
 	rankdir="LR";
     no1 [label = "研擬計畫 | 任務:1 | 開始:第01天 | 結束:第01天 | 需時:1天"]
     no2 [label = "任務分配 | 任務:2 | 開始:第02天 | 結束:05 | 需時:4天"]
