@@ -1,9 +1,9 @@
-```graphviz
+
 digraph {
 	node[shape=record];
 	rankdir="LR";
     no1 [label = "研擬計畫 | 任務:1 | 開始:第01天 | 結束:第01天 | 需時:1天"]
-    no2 [label = "任務分配 | 任務:2 | 開始:第02天 | 結束:05 | 需時:4天"]
+    no2 [label = "任務分配 | 任務:2 | 開始:第02天 | 結束:第05天 | 需時:4天"]
     no3 [label = "取得硬體 | 任務:3 | 開始:第02天 | 結束:第18天 | 需時:17天"]
     {rank=same;no2 no3}
     no1->no2
@@ -29,7 +29,7 @@ digraph {
     no10->no11
 	
 }
-```
+
 # hw2
 
 ## Mermaid
