@@ -1,6 +1,8 @@
-![PERT](PERT.png "PERT")
+
 
 # hw2
+## Pert
+![PERT](PERT.png "PERT")
 
 ## Mermaid
 ```mermaid
